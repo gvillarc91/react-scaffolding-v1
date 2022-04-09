@@ -1,0 +1,8 @@
+# storybook
+!.storybook
+
+# dependencies
+/node_modules
+
+# production
+/dist
